@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from plyer import notification
 
-def valor_dolar():
+def valor_coca34():
     valor_compra = 46.20
     valor_venda = 47
 
